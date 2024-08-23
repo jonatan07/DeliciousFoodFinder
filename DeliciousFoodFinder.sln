@@ -3,8 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.6.33829.357
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeliciousFoodFinder.WEB", "DeliciousFoodFinder.WEB.csproj", "{17D6624A-13D9-4B3F-B9EE-1B691D6C453C}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeliciousFoodFinder.API", "API\DeliciousFoodFinder.API\DeliciousFoodFinder.API.csproj", "{0D2CF8B3-7975-4DB5-8967-7EF84F5F4E56}"
 EndProject
 Global
@@ -13,10 +11,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{17D6624A-13D9-4B3F-B9EE-1B691D6C453C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{17D6624A-13D9-4B3F-B9EE-1B691D6C453C}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{17D6624A-13D9-4B3F-B9EE-1B691D6C453C}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{17D6624A-13D9-4B3F-B9EE-1B691D6C453C}.Release|Any CPU.Build.0 = Release|Any CPU
 		{0D2CF8B3-7975-4DB5-8967-7EF84F5F4E56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{0D2CF8B3-7975-4DB5-8967-7EF84F5F4E56}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0D2CF8B3-7975-4DB5-8967-7EF84F5F4E56}.Release|Any CPU.ActiveCfg = Release|Any CPU
