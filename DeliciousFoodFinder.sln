@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.6.33829.357
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeliciousFoodFinder.API", "API\DeliciousFoodFinder.API\DeliciousFoodFinder.API.csproj", "{0D2CF8B3-7975-4DB5-8967-7EF84F5F4E56}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeliciousFoodFinder.API", "DeliciousFoodFinder.API\DeliciousFoodFinder.API.csproj", "{0D2CF8B3-7975-4DB5-8967-7EF84F5F4E56}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

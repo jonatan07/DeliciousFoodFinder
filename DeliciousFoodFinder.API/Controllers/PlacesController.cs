@@ -29,7 +29,10 @@ namespace DeliciousFoodFinder.API.Controllers
         {
             return Ok();
         }
-
+        /// <summary>
+        ///  Allows you to add new places
+        /// </summary>
+        /// <returns>Returns the created object </returns>
         [HttpPost]
         [Produces(typeof(Place))]
         [ProducesResponseType((int)HttpStatusCode.Created)]
